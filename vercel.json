@@ -1,16 +1,6 @@
-<<<<<<< HEAD
 {
-    "rewrites": [
-      { "source": "/about", "destination": "/about.html" },
-      { "source": "/contact", "destination": "/contact.html" }
-    ]
-  }
-=======
-{
-    "rewrites": [
-      { "source": "/about", "destination": "/about.html" },
-      { "source": "/contact", "destination": "/contact.html" }
-    ]
-  }
->>>>>>> 2e072686dcdd28719c91be995d628e0b22219aaa
-  
+  "rewrites": [
+    { "source": "/about", "destination": "/about.html" },
+    { "source": "/contact", "destination": "/contact.html" }
+  ]
+}
